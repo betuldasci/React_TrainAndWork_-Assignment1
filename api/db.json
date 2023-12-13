@@ -1,0 +1,222 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "categoryId": "Frontend",
+      "title": "HTML CSS JS",
+      "instructorName": "Erhan",
+      "instructorSurname": "Kaya",
+      "duration": 32,
+      "price": 699.99,
+      "image": "/images/htmlcssjs.png",
+      "content": "Web uygulamaları geliştirmeye karar verdiniz ancak hiç bir bilginiz yok mu? Bu eğitim tam olarak sizin için tasarlandı! En temelden başlayarak adım adım HTML, CSS, JavaScript ve JQuery konularını uygulayarak öğreneceksiniz. Bu kursu tamamladığınızda, bir web sitesinin ön yüzünü nasıl geliştireceğinizi biliyor olacaksınız. Ezberleyerek değil, tam olarak anlayarak ve tüm yaşam döngüsüne hakim olarak öğreneceksiniz. Bunun için, her konuyu senaryolar eşliğinde ele alacaksınız. Eğitimden maksimum verimi almak için, örnekleri kendiniz yapmayı unutmayın."
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "categoryId": "Frontend",
+      "instructorName": "Selahaddin",
+      "instructorSurname": "Çiftçi",
+      "duration": 37,
+      "price": 799.99,
+      "image": "/images/react.jpg",
+      "content": "React'i sıfırdan öğreneceksiniz. React'e her yönüyle hakim olacaksınız. Context API ile state yönetimi yapabileceksiniz. Unit test yazmayı öğreneceksiniz. Real time çalışan web uygulamaları geliştirebileceksiniz. İnternet bağlantısı olmadan da çalışabilen web sayfaları geliştirebileceksiniz. React projelerinin nasıl deploy edileceğini öğreneceksiniz. Single page web uygulamaları geliştirebileceksiniz. Backend servisleri ile nasıl çalışacağınızı öğreneceksiniz. JavaScript Service Worker'lar ile çalışabileceksiniz."
+    },
+    {
+      "id": 3,
+      "title": "SQL",
+      "categoryId": "Backend",
+      "instructorName": "Mustafa",
+      "instructorSurname": "Ağaoğlu",
+      "duration": 44,
+      "price": 899.99,
+      "image": "/images/sql.png",
+      "content": "SQL dilini kullanarak başta MSSQL olmak üzere tüm veritabanlarında Veri sorgulamaları yapabileceksiniz. Temel SQL komutları olan Select, Insert, Update,Delete komutlarını kullanarak SQL sorgulayabileceksiniz. SQL Server 2017 kurulumunu ve kurulumda dikkat edilmesi gereken hususları öğreneceksiniz. İlişkisel veritabanı sistemlerini öğrenecek ve kendiniz ilişkisel bir veritabanı tasarlayabileceksiniz. SQL öğrenirken en çok zorlanılan konular olan Join, SubQuery ve Group By kavramlarını gerçek örnekler ile kullanmayı öğreneceksiniz."
+    },
+    {
+      "id": 4,
+      "title": "Kurumsal İletişim",
+      "duration": 14,
+      "price": 599.99,
+      "image": "/images/communication.jpg",
+      "content": "Beden Dili, sesin Kullanımı ve İletişimde Mesafe, El, Kol ve Baş Hareketleri, Duruş ve Oturuş Biçimi, Açık ve Kapalı Olmak, Sahiplenmek, Tekrarlanan Hareketler, Göz Teması, Jestler ve Mimikler, Etkili Beden Dili Kullanımı, Kritik Gedikler, Gizli Gündemler, Dilin Yapısı, Dayatılan Değerler, Uyumlanma ve Aşamaları, İletişimde Uyumlanma, Sorular ve Beyin.",
+      "instructorName": "Yasin",
+      "instructorSurname": "Yeniyurt",
+      "categoryId": "Communication"
+    },
+    {
+      "id": 5,
+      "title": "Veri Analizi",
+      "categoryId": "Backend",
+      "instructorName": "Mehmet",
+      "instructorSurname": "Çelik",
+      "duration": 6,
+      "price": 699.99,
+      "image": "/images/veri.jpg",
+      "content": "Python programlamayı neyi, neden yaptığınızı anlayarak öğrenin. Veri bilimi ve makine öğrenmesine geniş bir bakış açısı kazanacaksınız. Python ile büyük veri analitiği ve büyük veride makine öğrenmesi uygulamaları yapabileceksiniz. Makine öğrenmesini pekiştirecek ve algoritmalara özel optimizasyon teknikleri öğreneceksiniz. Keşifçi veri analizi ve veri görselleştirme teknikleri ile analitik yorumlama kabiliyetleri kazanacaksınız. "
+    },
+    {
+      "id": 6,
+      "categoryId": "Backend",
+      "title": "C#",
+      "instructorName": "Şule",
+      "instructorSurname": "Katarcı",
+      "duration": 26,
+      "price": 699.99,
+      "image": "/images/csharp.png",
+      "content": "Nesne Tabanlı Programlama'nın (Object Oriented Programming) inceliklerini Veri tabanı kayıt uygulamaları kontrol edebilmeyi 2D oyun altyapılarına adım atmayı Otomasyon uygulamaları geliştirebilmeyi Stok takip sistemleri algoritması kurabilmeyi Cari takip, fatura ve muhasebe projeleri yazabilmeyi öğreneceksiniz."
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1176/1176433.png",
+      "name": "Betül",
+      "surname": "Daşçi",
+      "birthDate": "29-12-1999",
+      "university": "Yıldız Teknik Üniversitesi",
+      "department": "Biyomühendislik",
+      "graduationYear": 2022,
+      "mail": "betuldasci@gmail.com"
+    },
+    {
+      "id": 2,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1176/1176433.png",
+      "name": "Sena Ceren",
+      "surname": "Kurnaz",
+      "birthDate": "29-12-1999",
+      "university": "Yıldız Teknik Üniversitesi",
+      "department": "Biyomühendislik",
+      "graduationYear": 2022,
+      "mail": "senaCeren@gmail.com"
+    },
+    {
+      "id": 3,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1176/1176433.png",
+      "name": "İrem Nisa",
+      "surname": "Gündoğdu",
+      "birthDate": "06-10-1997",
+      "university": "Yıldız Teknik Üniversitesi",
+      "department": "Kimya Bölümü",
+      "graduationYear": 2022,
+      "mail": "iremNisa@gmail.com"
+    },
+    {
+      "id": 4,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/5556/5556468.png",
+      "name": "İsmail Arif",
+      "surname": "Güleç",
+      "birthDate": "29-11-1998",
+      "university": "Deniz Harp Okulu",
+      "department": "Gemi Makineleri Bölümü",
+      "graduationYear": 2021,
+      "mail": "ismailGulec@gmail.com"
+    },
+    {
+      "id": 5,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/5556/5556468.png",
+      "name": "Ali Enes",
+      "surname": "Damat",
+      "birthDate": "14-04-1998",
+      "university": "Gazi Üniversitesi",
+      "department": "Makine Mühendisliği",
+      "graduationYear": 2021,
+      "mail": "benes@gmail.com"
+    },
+    {
+      "id": 6,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1176/1176433.png",
+      "name": "Merve",
+      "surname": "Kavlak",
+      "birthDate": "10-10-1999",
+      "university": "Boğaziçi Üniversitesi",
+      "department": "İlköğretim Matematik Öğretmenliği",
+      "graduationYear": 2022,
+      "mail": "merveKavlak@gmail.com"
+    },
+    {
+      "id": 7,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/5556/5556468.png",
+      "name": "Furkan",
+      "surname": "Ermiş",
+      "birthDate": "1998-01-09",
+      "university": "Dokuz Eylül",
+      "department": "İnşaat",
+      "graduationYear": "2021-10-14",
+      "mail": "furkan@ermis.com"
+    },
+    {
+      "id": 8,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/5556/5556468.png",
+      "name": "Bursa Uludağ Üniversitesi",
+      "surname": "Architecture",
+      "birthDate": "1998-07-27",
+      "university": "Yabasun",
+      "department": "Architect",
+      "graduationYear": "1998-07-27",
+      "mail": "yabasunemrullah@gmail.com"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Erhan",
+      "surname": "Kaya",
+      "mail": "erhan.kaya@e-mektep.com",
+      "title": "Software Developer and Software Instructor",
+      "portfolio": "Education Development Manager: E-mektep Bilişim Eğitimleri Merkezi - Assistant of General ManagerAssistant of General Manager Globax Technology Group - Dijital Pazarlama Uzmanlığı: Google Digital Garage - Introduction to Cybersecurity Introduction to Cybersecurity: Cisco",
+      "image": "/images/erhan.jpg",
+      "course_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Selahaddin",
+      "surname": "Çiftçi",
+      "mail": "selahaddin87@gmail.com",
+      "title": "Web Developer | Back End Developer | Php | Codeigniter | Laravel | Symfony | JavaScript | React | MySQL | Node.js | Python | Git | Django",
+      "portfolio": "Anadolu Üniversitesi Önlisans, Computer ProgrammingÖnlisans, Computer Programming - Atatürk Üniversitesi Önlisans, Medical Documentation and Secretarial Associate Degree Program Önlisans, Medical Documentation and Secretarial Associate Degree Program - Akdeniz Üniversitesi Önlisans, MekatronikÖnlisans, Mekatronik - Mustafa Kemal University Önlisans, Computer Technology/Computer Systems TechnologyÖnlisans, Computer Technology/Computer Systems Technology",
+      "image": "/images/selo.jpg",
+      "course_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Mustafa",
+      "surname": "Ağaoğlu",
+      "mail": "agaoglu@marmara.edu.tr",
+      "title": "Assoc.Prof.Dr. at Marmara University",
+      "portfolio": "Lisans: Boğaziçi Üniversitesi, Fen-Edebiyat Fakültesi, Fizik Bölümü, Türkiye - Yüksek Lisans: Marmara Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği (Yl) (Tezli), Türkiye - Doktora: Marmara Üniversitesi, Sosyal Bilimler Enstitüsü, İletişim Bilimleri (Dr) - Yüksek Lisans: Automation of Student Affairs including Web Implementations, Marmara Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği (Yl) (Tezli)",
+      "image": "/images/mustafa.jpg",
+      "course_id": 3
+    },
+    {
+      "id": 4,
+      "name": "Yasin",
+      "surname": "Yeniyurt",
+      "mail": "yasin.yeniyurt@e-mektep.com",
+      "title": "Education Director / ISO 27001 Lead Auditor",
+      "portfolio": "Anadolu Üniversitesi Lisans: Yönetim Bilişim Sistemleri - Anadolu Üniversitesi İnsan Kaynakları Yönetimi/Personel Yönetimi, Genelİnsan Kaynakları Yönetimi/Personel Yönetimi - İstanbul Sabahattin Zaim Üniversitesi Yüksek Lisans (Master), Eğitim Liderliği ve Yönetimi, GenelYüksek Lisans (Master), Eğitim Liderliği ve Yönetimi, Genel Selçuk Üniversitesi Yüksek Lisans (Master), Eğitim BilimleriYüksek Lisans (Master), Eğitim Bilimleri - Mimar Sinan Güzel Sanatlar Üniversitesi Lisans Derecesi, Türk Dili ve Edebiyatı",
+      "image": "/images/yasin.jpg",
+      "course_id": 4
+    },
+    {
+      "id": 5,
+      "name": "Mehmet",
+      "surname": "Çelik",
+      "mail": "celikmehmetyl@gmail.com",
+      "title": "Data Scientist",
+      "portfolio": "Ankara Yıldırım Beyazıt Üniversitesi Lisans Derecesi, Bankacılık ve FinansLisans Derecesi, Bankacılık ve Finans. Süleyman Demirel Üniversitesi Master of Business Administration - MBA, Bankacılık ve Finansal Destek Hizmetleri Yetenekler: Finans, Finansal Analizler, Finans Piyasaları, Finansal Planlama, IFRS (Uluslararası Finansal Raporlama Standartları), Python, Makine Öğrenimi, İstatistiksel Veri Analizi, Deep Learning, Veri Analizi ",
+      "image": "/images/mehmet.jpg",
+      "course_id": 5
+    },
+    {
+      "id": 6,
+      "name": "Şule",
+      "surname": "Katarcı",
+      "mail": "sulekatarcii@gmail.com",
+      "title": "Senior Software Developer",
+      "portfolio": "Senior Software Developer: Findante Yazılım ve Bilişim - Yetenekler: Java · C · C#Yetenekler: Java · C · C# - Software Developer: Predicted.pro",
+      "image": "/images/sule.jpg",
+      "course_id": 6
+    }
+  ]
+}

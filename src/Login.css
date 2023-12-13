@@ -1,0 +1,21 @@
+.login-container {
+    background: 'url("https://t4.ftcdn.net/jpg/04/45/70/71/360_F_445707107_elptpcI7pUDPa9kMdnX9e3506QdHfo7r.jpg")';
+    /* Arka plan görseli */
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.login-card {
+    width: 300px;
+    /* Kart genişliği */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    /* Hafif saydam arka plan */
+}
+
+.btn-hover:hover {
+    background-color: #0056b3;
+    /* Hover rengi */
+    color: white;
+}
